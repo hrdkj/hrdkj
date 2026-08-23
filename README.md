@@ -1,4 +1,4 @@
-hello people! i live to make things
+hello people! 
 
 ### Projects
 - 📝 [Mistracker](https://github.com/hrdkj/mistracker) - Track your study mistakes, learn from them, improve your performance.
