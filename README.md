@@ -2,7 +2,6 @@ hello people!
 
 ### Projects
 - 📝 [Mistracker](https://github.com/hrdkj/mistracker) - Track your study mistakes, learn from them, improve your performance.
-- 📖 [hreader](https://github.com/hrdkj/hreader) - A reader app that makes it effortless to copy passages and drop them into AI for quick explanations. 
 - 🗂️ [EisenhowerMatrix](https://github.com/hrdkj/eisenhowermatrix) - A simple planning system built around the classic Eisenhower Matrix 
 - 📱 [UnlauncherNG](https://github.com/hrdkj/unlauncher-ng) - An Android launcher based on the open-source **Unlauncher** project
 
